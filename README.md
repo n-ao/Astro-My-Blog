@@ -1,10 +1,5 @@
-# Astro-Getting-Started
-Astroを初めて触ってみる。
+# Astro-My-Blog
+これをこれをブログ代わりにしようと考え中。
 
----
-URL：
-https://n-ao.github.io/Astro-Getting-Started/
-
---- 
 ## TODO
-`base`の指定でもっといいやり方がある気がするので模索
+諸々の設定
