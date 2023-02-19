@@ -4,6 +4,6 @@
 ---
 
 <div>
-	<h2><a href={`/${post.slug}`}>{post.title}</a></h2>
+	<h2><a href={`${import.meta.env.BASE_URL}/${post.slug}`}>{post.title}</a></h2>
 	<p>{post.preview}</p>
 </div>
