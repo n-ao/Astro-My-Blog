@@ -20,6 +20,5 @@ export default defineConfig(
 			}]
 		},
 		site: 'https://n-ao.github.io',
-		base: '/Astro-My-Blog',
 		integrations: [sitemap()]
 	});
