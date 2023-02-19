@@ -19,7 +19,7 @@ export default defineConfig(
 				}
 			}]
 		},
-		site: 'https://n-ao.github.io',
+		site: 'https://n-ao.github.io/Astro-My-Blog',
 		base: '/Astro-My-Blog',
 		integrations: [sitemap()]
 	});
