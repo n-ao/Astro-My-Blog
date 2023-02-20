@@ -1,6 +1,6 @@
 ---
 title: Asro学習中
-date: 2023-02-19
+pubDate: 2023-02-19
 preview: hoge
 setup: | 
   import TestComponent from './TestComponent.astro';
