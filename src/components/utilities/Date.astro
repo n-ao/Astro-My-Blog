@@ -1,7 +1,4 @@
 ---
 	const {date} = Astro.props;
-
-	const options = { year: 'numeric', month: 'long', day: 'numeric' };
-	const formattedDate = new Intl.DateTimeFormat('ja-JP', options).format(date);
 ---
-<time datetime={date}>{formattedDate}</time>
+<time datetime={date}>{date.slice(0,10)}</time>
